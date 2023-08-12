@@ -1,0 +1,17 @@
+h1{
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.container{
+  width: 619px;
+  height: 283px;
+  color: black;
+  background-color: #C4C4C4;
+}
+
+p{
+  margin-right: 10px;
+
+}
+
